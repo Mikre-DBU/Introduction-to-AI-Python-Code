@@ -1,3 +1,5 @@
+## Compiled by: Mikre G. Debre Berhan University, Ethiopia
+
 Introduction to Artificial Intelligence Using Python Programming Language
 
 What is Artificial intelligence?
