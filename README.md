@@ -26,9 +26,9 @@ Artificial Intelligence has various applications in today's society. It is becom
 
 Following are some sectors which have the application of Artificial Intelligence:
 
-1. AI in Astronomy (<br>)
+1. AI in Astronomy <br>
 Artificial Intelligence can be beneficial to solve complex universe problems. AI technology can help us understand the universe such as how it works, its origin, etc.
-2. AI in Healthcare  (<br>)
+2. AI in Healthcare <br>
 In the last, five to ten years, AI has become more advantageous for the healthcare industry and is going to have a significant impact on this industry.
 Healthcare Industries are applying AI to make a better and faster diagnosis than humans. AI can help doctors with diagnoses and can inform when patients are worsening so that medical help can reach the patient before hospitalization.
 3. AI in Gaming
