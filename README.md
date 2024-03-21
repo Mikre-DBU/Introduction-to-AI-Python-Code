@@ -14,7 +14,7 @@ Artificial intelligence today is properly known as narrow AI (or weak AI), in th
 
 ## Branches of artificial intelligence
 
-<center> <img width="344" alt="image" src="https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/40ead9cb-89ea-4e41-ac21-58cf940145fb"> </center>
+<img width="344" alt="image" src="https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/40ead9cb-89ea-4e41-ac21-58cf940145fb"> 
 
 ## Application areas of artificial intelligence
 
