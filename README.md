@@ -16,8 +16,6 @@ Artificial intelligence today is properly known as narrow AI (or weak AI), in th
 
 <img width="344" alt="image" src="https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/40ead9cb-89ea-4e41-ac21-58cf940145fb">
 
-![image](https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/20c5669f-2d6e-4c5a-b506-fd4e97c89f2c)
-
 ## Application areas of artificial intelligence
 
 1. AI in Astronomy
