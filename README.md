@@ -1,4 +1,4 @@
-#### Compiled by: Mikre Getu, Debre Berhan University, Ethiopia, College of Computing Science, Department Of Computer Science
+#### Compiled by: Mikre Getu, Debre Berhan University, Ethiopia, College of Computing Science, Department of Computer Science
 
 ## Introduction to Artificial Intelligence Using Python Programming Language
 
