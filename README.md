@@ -13,12 +13,10 @@ Artificial Intelligence is building intelligent machines from vast volumes of da
 Artificial intelligence today is properly known as narrow AI (or weak AI), in that it is designed to perform a narrow task such as only facial recognition, or only internet searches, or only driving a car). However, the long-term goal of many researchers is to create general AI (AGI or strong AI).
 
 ## Branches of artificial intelligence
-
-                        <img width="344" alt="image" src="https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/40ead9cb-89ea-4e41-ac21-58cf940145fb"> 
+<img width="344" alt="image" src="https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/40ead9cb-89ea-4e41-ac21-58cf940145fb"> 
 
 ## Application areas of artificial intelligence
-
-                           ![application-of-ai](https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/423deb01-65b2-40fb-ac28-0edfdb3b59f6)
+![application-of-ai](https://github.com/Mikre-DBU/Introduction-to-AI-Python-Code/assets/164008211/423deb01-65b2-40fb-ac28-0edfdb3b59f6)
 
 
 Application of AI
